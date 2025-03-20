@@ -34,7 +34,7 @@ make clean
 ```
 ### LCOV Report
 
-<img src="./lcov-img.png" alt="Figura" style="width:100%;"/>
+<img src="./lcov-img.png" alt="Figura" style="width:50%;"/>
 
 ## Reference
 * [LCOV](https://github.com/linux-test-project/lcov) 
