@@ -21,7 +21,7 @@ make all
 ### Test
 
 ```bash
-make test
+make run
 ```
 ### Gerating coverage report
 
