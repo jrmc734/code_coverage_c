@@ -32,6 +32,9 @@ make coverage
 ```bash
 make clean
 ```
+### LCOV Report
+
+<img src="./lcov-img.png" alt="Figura" style="width:100%;"/>
 
 ## Reference
 * [LCOV](https://github.com/linux-test-project/lcov) 
