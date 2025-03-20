@@ -1,29 +1,16 @@
 #vscode
 .vscode
 
-# Prerequisites
-*.d
 
 # Object files
 *.o
-*.ko
 *.obj
-*.elf
 
-# Linker output
-*.ilk
-*.map
-*.exp
+# dir
+bin
+lcov-report
+gcov-files
 
-# Precompiled Headers
-*.gch
-*.pch
-
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
 
 # Shared objects (inc. Windows DLLs)
 *.dll
@@ -53,3 +40,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Instrumentation files
+*.gcov
+*.gcda
+*.gcno
+*.info
