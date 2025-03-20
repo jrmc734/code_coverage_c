@@ -7,10 +7,7 @@
 *.obj
 
 # dir
-.bin
-lcov-report
-gcov-files
-
+bin
 
 # Shared objects (inc. Windows DLLs)
 *.dll
